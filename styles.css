@@ -1,0 +1,104 @@
+html, body {
+    background-image: linear-gradient(rgb(98, 211, 255), rgb(255, 255, 255)) ;   
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Passion One', cursive;
+    padding: 0%;
+  
+}
+
+/* tittle {
+    color: rgb(0, 0, 0);
+} */
+
+h2 {
+    user-select: none;
+}
+
+.texto1 {
+    color: rgb(255, 253, 253);
+    -webkit-text-stroke: 1px rgb(97, 91, 91);
+    text-align: center;
+    user-select: none;
+}
+
+.texto {
+    border: 3px;
+    border-style: solid;
+    border-color: rgba(255, 255, 255, 0);
+    
+}
+
+a, img {
+    text-align: center;
+    position: static;
+    margin: 2rem;
+    padding: 0 auto ;
+    transition: all .4s ease-in-out;
+}
+
+#perfil {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    border-radius: 5px;
+}
+
+.perfil1 {
+    border-style: solid;
+    border-radius: 100%;
+}
+
+div {
+    margin: 0% auto;
+}
+
+.insta:hover{
+    transform: translateX(-40px) scale(1.1);
+}
+
+.face:hover{
+    transform: translateX(-40px) scale(1.1);
+}
+
+.twitter:hover {
+    transform: translatex(-40px) scale(1.1);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+footer {
+    background-color: rgb(101, 194, 193);
+    padding: 3rem;
+    color: #fff;
+}
+
+footer p {
+    float: right;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0,3s ease;
+}
+
+footer a:hover {
+    color: cornflowerblue;
+}
+*/
